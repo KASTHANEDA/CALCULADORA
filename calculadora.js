@@ -21,6 +21,7 @@ function operaciones(op)
             return (parseInt(n1) / parseInt(n2));
         }
 
+		
 
     };
 
